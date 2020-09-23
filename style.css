@@ -1,0 +1,10 @@
+.websiteName {
+    text-align: center;
+    color: white;
+    font-size: 6rem
+}
+
+.jumbotron {
+    background-image: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/altocumulus.jpg");
+
+}
